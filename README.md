@@ -159,13 +159,3 @@ This project is open-source. You may modify or reuse it freely.
 
 
 ---
-
-If you want, I can also create:
-
-✅ Badges (Python, Django, DRF, PostgreSQL)  
-✅ Screenshots section  
-✅ API documentation section  
-✅ Aesthetic dark-mode README  
-✅ Uzbek or Russian version  
-
-Just tell me the style!
