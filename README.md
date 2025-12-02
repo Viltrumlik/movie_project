@@ -142,8 +142,6 @@ Authorization: Bearer <token>
 5. Serve static files
 6. Add free domain or `.uz` domain
 
-If you want, I can generate a full **deployment guide** for this project too.
-
 ---
 
 ## 📜 License
